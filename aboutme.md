@@ -1,13 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Would you like to participate in sharing economy?
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Mario Sevcik. I am offering following:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- removing purchasing and ownership
+- sharing services instead
 
 What else do you need?
 
